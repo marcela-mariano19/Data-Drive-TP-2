@@ -1,0 +1,1 @@
+Para executar os teste, baixe os arquivos, instale o arquivo requimenentes.txt que está na raiz

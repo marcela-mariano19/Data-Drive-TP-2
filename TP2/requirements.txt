@@ -1,0 +1,15 @@
+fastapi
+transformers
+torch
+uvicorn
+langchain_community
+langchain==0.3.7
+langchain-huggingface
+huggingface_hub
+sentencepiece
+langchain_google_genai
+
+
+
+
+
